@@ -47,7 +47,7 @@ I'm student at Azerbaijan State University of Economics 👩‍🎓
  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 
-How to reach me? 📫  (huseynovfarid1111@gmail.com)
+How to reach me? 📫  (salmanovasaida814@gmail.com)
 <!---
 Digitalturkk/Digitalturkk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
